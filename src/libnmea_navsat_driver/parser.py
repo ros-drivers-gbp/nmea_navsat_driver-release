@@ -41,8 +41,15 @@ logger = logging.getLogger('rosout')
 def safe_float(field):
     try:
         return float(field)
-    except ValueError as e:
+    except ValueError:
         return float('NaN')
+
+
+def safe_int(field):
+    try:
+        return int(field)
+    except ValueError:
+        return 0
 
 
 def convert_latitude(field):
@@ -101,7 +108,7 @@ parse_maps = {
         ("altitude", safe_float, 9),
         ("mean_sea_level", safe_float, 11),
         ("hdop", safe_float, 8),
-        ("num_satellites", int, 7),
+        ("num_satellites", safe_int, 7),
         ("utc_time", convert_time, 1),
         ],
     "RMC": [
