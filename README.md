@@ -1,3 +1,24 @@
+## nmea_navsat_driver (jade) - 0.5.0-0
+
+The packages in the `nmea_navsat_driver` repository were released into the `jade` distro by running `/usr/local/bin/bloom-release -r jade -t jade nmea_navsat_driver --new-track` on `Thu, 23 Apr 2015 19:27:03 -0000`
+
+The `nmea_navsat_driver` package was released.
+
+Version of package(s) in repository `nmea_navsat_driver`:
+- upstream repository: https://github.com/ros-drivers/nmea_navsat_driver.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.5.0-0`
+
+Versions of tools used:
+- bloom version: `0.5.19`
+- catkin_pkg version: `0.2.7`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.1`
+- vcstools version: `0.1.36`
+
+
 ## nmea_navsat_driver (indigo) - 0.4.2-0
 
 The packages in the `nmea_navsat_driver` repository were released into the `indigo` distro by running `/usr/local/bin/bloom-release -r indigo -t indigo nmea_navsat_driver` on `Thu, 23 Apr 2015 19:20:36 -0000`
