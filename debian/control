@@ -1,0 +1,12 @@
+Source: ros-jade-nmea-navsat-driver
+Section: misc
+Priority: extra
+Maintainer: Eric Perko <eric@ericperko.com>
+Build-Depends: debhelper (>= 9.0.0), ros-jade-catkin, ros-jade-roslint
+Homepage: http://ros.org/wiki/nmea_navsat_driver
+Standards-Version: 3.9.2
+
+Package: ros-jade-nmea-navsat-driver
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, python-serial, ros-jade-geometry-msgs, ros-jade-nmea-msgs, ros-jade-rospy, ros-jade-sensor-msgs
+Description: Package to parse NMEA strings and publish a very simple GPS message. Does not require the GPSD deamon.
