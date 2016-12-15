@@ -1,3 +1,26 @@
+## nmea_navsat_driver (kinetic) - 0.5.0-0
+
+The packages in the `nmea_navsat_driver` repository were released into the `kinetic` distro by running `/usr/local/bin/bloom-release -r kinetic -t kinetic nmea_navsat_driver` on `Thu, 15 Dec 2016 01:30:48 -0000`
+
+The `nmea_navsat_driver` package was released.
+
+Version of package(s) in repository `nmea_navsat_driver`:
+
+- upstream repository: https://github.com/ros-drivers/nmea_navsat_driver.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.5.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.38`
+
+
 ## nmea_navsat_driver (jade) - 0.5.0-0
 
 The packages in the `nmea_navsat_driver` repository were released into the `jade` distro by running `/usr/local/bin/bloom-release -r jade -t jade nmea_navsat_driver --new-track` on `Thu, 23 Apr 2015 19:27:03 -0000`
