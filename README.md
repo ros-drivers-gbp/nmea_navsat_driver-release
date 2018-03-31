@@ -1,3 +1,26 @@
+## nmea_navsat_driver (melodic) - 0.5.0-0
+
+The packages in the `nmea_navsat_driver` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -t melodic -r melodic nmea_navsat_driver` on `Sat, 31 Mar 2018 20:49:46 -0000`
+
+The `nmea_navsat_driver` package was released.
+
+Version of package(s) in repository `nmea_navsat_driver`:
+
+- upstream repository: https://github.com/ros-drivers/nmea_navsat_driver.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.5.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.4`
+- catkin_pkg version: `0.4.1`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.8`
+- vcstools version: `0.1.40`
+
+
 ## nmea_navsat_driver (kinetic) - 0.5.0-0
 
 The packages in the `nmea_navsat_driver` repository were released into the `kinetic` distro by running `/usr/local/bin/bloom-release -r kinetic -t kinetic nmea_navsat_driver` on `Thu, 15 Dec 2016 01:30:48 -0000`
