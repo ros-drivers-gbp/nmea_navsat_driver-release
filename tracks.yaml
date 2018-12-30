@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:ros-drivers-gbp/nmea_navsat_driver-release.git
 tracks:
   hydro:
     actions:
