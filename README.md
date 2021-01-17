@@ -1,3 +1,26 @@
+## nmea_navsat_driver (noetic) - 0.6.1-2
+
+The packages in the `nmea_navsat_driver` repository were released into the `noetic` distro by running `/usr/local/bin/bloom-release -r noetic -t noetic nmea_navsat_driver` on `Sun, 17 Jan 2021 01:55:15 -0000`
+
+The `nmea_navsat_driver` package was released.
+
+Version of package(s) in repository `nmea_navsat_driver`:
+
+- upstream repository: https://github.com/ros-drivers/nmea_navsat_driver.git
+- release repository: https://github.com/ros-drivers-gbp/nmea_navsat_driver-release.git
+- rosdistro version: `0.6.0-1`
+- old version: `0.6.1-1`
+- new version: `0.6.1-2`
+
+Versions of tools used:
+
+- bloom version: `0.9.8`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## nmea_navsat_driver (noetic) - 0.6.1-1
 
 The packages in the `nmea_navsat_driver` repository were released into the `noetic` distro by running `/usr/local/bin/bloom-release -r noetic -t noetic nmea_navsat_driver` on `Sun, 17 Jan 2021 01:46:34 -0000`
