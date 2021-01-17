@@ -1,1 +1,1 @@
-{"trim": "", "base": "6982640", "trimbase": "", "parent": "debian/noetic/nmea_navsat_driver", "previous": "e35cec2"}
+{"base": "78b1f85", "parent": "debian/noetic/nmea_navsat_driver", "previous": "8814337", "trim": "", "trimbase": ""}
